@@ -5,6 +5,8 @@ This script is provided as sample and must not be used in production environment
 
 ## Overview
 
+ For more information about WVD Monitoring with SEPAGO please visit this link: https://www.youtube.com/watch?v=dP3CQU2c-jE&t=4s
+ 
  The objective of these scripts is help you to install SEPAGO WVD Monitoring Agent on Azure VM HostPool that's already up and running using Powershell Extensions.
 
 In order to successful complete the instalation you need:
